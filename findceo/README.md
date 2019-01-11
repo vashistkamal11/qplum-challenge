@@ -30,7 +30,9 @@ For each test case, output on a line a space separated list of all possible valu
 
 ## Constraints:
 1 <= T <= 50
+
 1 <= Ni <= 30
+
 X is between 1 and 1000000.
 
 
