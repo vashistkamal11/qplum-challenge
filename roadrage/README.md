@@ -15,14 +15,26 @@ X<sub>P1</sub> V<sub>P1</sub> # Starting position of car P1 and velocity.
 
 
 Example
-1
+2
 3
 1 6
 5 3
 3 1
+10
+4 8
+2 2
+3 10
+6 9
+1 5
+10 7
+7 4
+8 3
+5 1
+9 6
 
 
 Should output
 2
+22
 Since the first car overtakes both the cars and there are no other overtakes.
 
